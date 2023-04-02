@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I working as Junior DevOps Enginner
+My technology stack: AWS, terraform, docker, linux, python, ansible
 <!--
 **Tomasz0124k/Tomasz0124k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
